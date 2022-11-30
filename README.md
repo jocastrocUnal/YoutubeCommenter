@@ -15,3 +15,7 @@ Abrir desde colab he instalar las siguientes dependencias adicionales
 !pip install -q datasets
 !pip3 install -q imageio==2.4.1
 ```
+
+## Link de la presentación
+
+[:)](https://www.canva.com/design/DAFTR5VD4x8/IrohP5NNTo3ITH4ZUynoHw/view?utm_content=DAFTR5VD4x8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
